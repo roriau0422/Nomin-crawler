@@ -197,7 +197,7 @@ def main():
             print(product_json)
         num_products = len(product_divs)
         print(f"{selected_choice} категорид {num_products} бүтээгдэхүүн байна.")
-
+        driver.minimize_window()
         txt_choose = input("Бүтээгдэхүүнүүдийг текст файлд хадгалах уу? (Y/N): ")
         if txt_choose.lower() == "y":
             with open(f"{selected_choice}.txt", "w", encoding="utf-8") as f:

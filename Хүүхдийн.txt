@@ -1,0 +1,2500 @@
+{
+    "sku": "VN0A4BUWY09",
+    "mpn": "VN0A4BUWY09",
+    "description": "Кет (Сникерс)",
+    "image_url": "https://cdnp.cody.mn/spree/images/2322985/product/VN0A4BUWY09.jpg",
+    "brand": "VANS",
+    "name": "KD SK8-HI PIXEL FLAME BLACK/RED",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "199,900 ₮"
+}
+{
+    "sku": "VN000CRX6BT",
+    "mpn": "VN000CRX6BT",
+    "description": "Кет (Сникерс)",
+    "image_url": "https://cdnp.cody.mn/spree/images/2322997/product/VN000CRX6BT_1.jpg",
+    "brand": "VANS",
+    "name": "KD MARY JANE BLACK/WHITE",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "179,900 ₮"
+}
+{
+    "sku": "CONA07422C",
+    "mpn": "CONA07422C",
+    "description": "Материал: Canvas",
+    "image_url": "https://cdnp.cody.mn/spree/images/2324186/product/a074221.PNG",
+    "brand": "Converse",
+    "name": "CHUCK TAYLOR ALL STAR BUBBLE STRAP 1V",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "219,900 ₮"
+}
+{
+    "sku": "CONA07387C",
+    "mpn": "CONA07387C",
+    "description": "Материал: Canvas",
+    "image_url": "https://cdnp.cody.mn/spree/images/2323213/product/A07387C.jpg",
+    "brand": "Converse",
+    "name": "CHUCK TAYLOR ALL STAR 1V",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "209,900 ₮"
+}
+{
+    "sku": "CONA07424C",
+    "mpn": "CONA07424C",
+    "description": "Материал: Canvas",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317800/product/open-uri20240423-3572826-1p99f39.",
+    "brand": "Converse",
+    "name": "CHUCK TAYLOR ALL STAR 1V",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "209,900 ₮"
+}
+{
+    "sku": "CONA07377C",
+    "mpn": "CONA07377C",
+    "description": "Материал: Canvas",
+    "image_url": "https://cdnp.cody.mn/spree/images/2318502/product/7377.PNG",
+    "brand": "Converse",
+    "name": "CHUCK TAYLOR ALL STAR 1V",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "219,900 ₮"
+}
+{
+    "sku": "CONA09865C",
+    "mpn": "CONA09865C",
+    "description": "Материал: EVA",
+    "image_url": "https://cdnp.cody.mn/spree/images/2318025/product/open-uri20240423-3572769-4lqh97.",
+    "brand": "Converse",
+    "name": "CHUCK TAYLOR ALL STAR PLAY LITE CX",
+    "alternate_name": "Шаахай",
+    "price": "159,900 ₮"
+}
+{
+    "sku": "CONA07395C",
+    "mpn": "CONA07395C",
+    "description": "Материал: EVA",
+    "image_url": "https://cdnp.cody.mn/spree/images/2324153/product/a07390.png",
+    "brand": "Converse",
+    "name": "CHUCK TAYLOR ALL STAR PLAY LITE CX",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "159,900 ₮"
+}
+{
+    "sku": "CONA07420C",
+    "mpn": "CONA07420C",
+    "description": "Материал: EVA",
+    "image_url": "https://cdnp.cody.mn/spree/images/2324154/product/a0742011.png",
+    "brand": "Converse",
+    "name": "CHUCK TAYLOR ALL STAR PLAY LITE CX",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "159,900 ₮"
+}
+{
+    "sku": "CONA07384C",
+    "mpn": "CONA07384C",
+    "description": "Материал: Canvas",
+    "image_url": "https://cdnp.cody.mn/spree/images/2318497/product/7384.PNG",
+    "brand": "Converse",
+    "name": "CHUCK TAYLOR ALL STAR MALDEN STREET 1V",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "179,900 ₮"
+}
+{
+    "sku": "CONA06892C",
+    "mpn": "CONA06892C",
+    "description": "Canvas",
+    "image_url": "https://cdnp.cody.mn/spree/images/2318511/product/converse-star-player-76-easy-on-a06892c.png",
+    "brand": "Converse",
+    "name": "STAR PLAYER 76 3V",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "229,900 ₮"
+}
+{
+    "sku": "CON368983C",
+    "mpn": "CON368983C",
+    "description": "Энэхүү гутал нь өөрийн гэсэн түүхтэй, орчин үеийн соёлын салшгүй нэг хэсэг. \nЭнгийн нэгэн гутал биш, энэ бол Чаак 70.\n \nШинэчлэгдсэн Классик\nХэзээ ч хуучиршгүй загвар\nДээд зэргийн тав тух\n \nБид 1970 оны өв загвараа дээд зэргийн тав тухтай, удаан эдэлгээтэй, өмсгөлийг нь шинэчэлэн авчирлаа\nChuck 70 нь тав туx, xийц, материалаараа классик илүү онцлог байдаг. Хамгийн мэдэгдэxүйц онцлог нь улны теxнологи бөгөөд OrthoLite улавч юм. OrthoLite улавч нь маш зөөлөн, доргилтод илүү тэсвэртэй, хоншоорын хэлбэр н богино учраас илүү уян хатан нугалардаг болон илүү өргөн өмсгөлтэй болсноороо онцлог. Үндсэн бие болон үдээсний материалыг нь илүү цэвэр даавуун бас улны хээ нь илүү нарийвчлалтай үйлдвэрлэдэг болсноор халтираа гулгаад илүү тэсвэртэй. Мөн улны резинэн материалыг илүү сайжруулснаар элэгдэл багатай. Уламжлалт All-Star логодээрээ Chuck 70-ийн нэмэлт оёостой",
+    "image_url": "https://cdnp.cody.mn/spree/images/991742/product/368983C_2.jpg",
+    "brand": "Converse",
+    "name": "Chuck 70",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "249,900 ₮"
+}
+{
+    "sku": "6940542764579",
+    "mpn": "6940542764579",
+    "description": "Хүүхдийн өмсдөг живх XL size 46 ширхэгХуурай орчинд 3 жил хадгалахШингэн дүүрсэн үед солино",
+    "image_url": "https://cdnp.cody.mn/spree/images/2282203/product/800x800_XL.png",
+    "brand": "NE-NE KORORI",
+    "name": "Ne-ne korori живх XL size 46 ширхэг",
+    "alternate_name": "Хүүхдийн живх",
+    "price": "46,500 ₮"
+}
+{
+    "sku": "SAC0013896001S-354",
+    "mpn": "SAC0013896001S-354",
+    "description": "Grigio chiaro melangeцайвар сааралsocks",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320885/product/open-uri20240424-3684199-yxuzrb.",
+    "brand": "TERRANOVA",
+    "name": "Оймс",
+    "alternate_name": "Түрийгүй оймс",
+    "price": "19,900 ₮"
+}
+{
+    "sku": "SAC0013867001S-347",
+    "mpn": "SAC0013867001S-347",
+    "description": "Bianco otticoцагаанCiabatta",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320860/product/open-uri20240424-3684239-1h7kur1.",
+    "brand": "TERRANOVA",
+    "name": "Гэрийн шаахай",
+    "alternate_name": "Флип Флоп сандаль",
+    "price": "19,900 ₮"
+}
+{
+    "sku": "SAC0013895001S-105",
+    "mpn": "SAC0013895001S-105",
+    "description": "Neroхарsocks",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320874/product/open-uri20240424-3684199-1ly0mtk.",
+    "brand": "TERRANOVA",
+    "name": "Оймс",
+    "alternate_name": "Түрийгүй оймс",
+    "price": "17,900 ₮"
+}
+{
+    "sku": "SAC0013873001S-105",
+    "mpn": "SAC0013873001S-105",
+    "description": "NeroхарSemplice",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320866/product/open-uri20240424-3684213-1d1rwvz.",
+    "brand": "TERRANOVA",
+    "name": "Малгай",
+    "alternate_name": "Саравчтай малгай",
+    "price": "32,900 ₮"
+}
+{
+    "sku": "SAC0013895001S-C97",
+    "mpn": "SAC0013895001S-C97",
+    "description": "Rosa fluo chiaroягаанsocks",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320878/product/open-uri20240424-3684213-peztl6.",
+    "brand": "TERRANOVA",
+    "name": "Оймс",
+    "alternate_name": "Түрийгүй оймс",
+    "price": "17,900 ₮"
+}
+{
+    "sku": "SAC0013879001S-326",
+    "mpn": "SAC0013879001S-326",
+    "description": "Verde acquaногоон цэнхэрCiabatta",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320868/product/open-uri20240424-3684239-1vsslfz.",
+    "brand": "TERRANOVA",
+    "name": "Гэрийн шаахай",
+    "alternate_name": "Флип Флоп сандаль",
+    "price": "19,900 ₮"
+}
+{
+    "sku": "SAC0013880001S-893",
+    "mpn": "SAC0013880001S-893",
+    "description": "Var ciclamino chiaroхөх эрээнCiabatta",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320871/product/open-uri20240424-3684213-fwaehg.",
+    "brand": "TERRANOVA",
+    "name": "Гэрийн шаахай",
+    "alternate_name": "Флип Флоп сандаль",
+    "price": "19,900 ₮"
+}
+{
+    "sku": "SAC0013895001S-147",
+    "mpn": "SAC0013895001S-147",
+    "description": "Turcheseусан ногоон цэнхэрsocks",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320876/product/open-uri20240424-3684183-1fhyev7.",
+    "brand": "TERRANOVA",
+    "name": "Оймс",
+    "alternate_name": "Түрийгүй оймс",
+    "price": "17,900 ₮"
+}
+{
+    "sku": "SAC0013896001S-105",
+    "mpn": "SAC0013896001S-105",
+    "description": "Neroхарsocks",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320881/product/open-uri20240424-3684239-l89uda.",
+    "brand": "TERRANOVA",
+    "name": "Оймс",
+    "alternate_name": "Түрийгүй оймс",
+    "price": "19,900 ₮"
+}
+{
+    "sku": "SAC0013896001S-347",
+    "mpn": "SAC0013896001S-347",
+    "description": "Bianco otticoцагаанsocks",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320883/product/open-uri20240424-3684199-58shxp.",
+    "brand": "TERRANOVA",
+    "name": "Оймс",
+    "alternate_name": "Түрийгүй оймс",
+    "price": "19,900 ₮"
+}
+{
+    "sku": "SAC0013868001S-105",
+    "mpn": "SAC0013868001S-105",
+    "description": "NeroхарCiabatta",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320863/product/open-uri20240424-3684183-1snemng.",
+    "brand": "TERRANOVA",
+    "name": "Гэрийн шаахай",
+    "alternate_name": "Флип Флоп сандаль",
+    "price": "19,900 ₮"
+}
+{
+    "sku": "SAC0013457001S-119",
+    "mpn": "SAC0013457001S-119",
+    "description": "RosaягаанSemplice",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320715/product/open-uri20240424-3684213-iqynf4.",
+    "brand": "TERRANOVA",
+    "name": "Малгай",
+    "alternate_name": "Малгай",
+    "price": "14,900 ₮"
+}
+{
+    "sku": "SAB0065460001S-336",
+    "mpn": "SAB0065460001S-336",
+    "description": "Verde militare chiaroногоон цэнхэрlong",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320561/product/open-uri20240424-3684199-co2f19.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Чөлөөт өмд",
+    "price": "54,900 ₮"
+}
+{
+    "sku": "SAB0065468001S-078",
+    "mpn": "SAB0065468001S-078",
+    "description": "Grigioцайвар сааралlong",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320587/product/open-uri20240424-3684239-lydais.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Чөлөөт өмд",
+    "price": "49,900 ₮"
+}
+{
+    "sku": "SAB0065461001S-352",
+    "mpn": "SAB0065461001S-352",
+    "description": "Blu denim medioтод цэнхэрlong",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320566/product/open-uri20240424-3684199-1ewiv0j.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Жинсэн өмд",
+    "price": "79,900 ₮"
+}
+{
+    "sku": "SAB0065467001S-024",
+    "mpn": "SAB0065467001S-024",
+    "description": "Bianco lanaцагаанlong",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320577/product/open-uri20240424-3684213-cnx1oj.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Рейтузан өмд",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0065469001S-407",
+    "mpn": "SAB0065469001S-407",
+    "description": "Var blu denim medioхөх эрээнlong",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320592/product/open-uri20240424-3684213-11irosf.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Жинсэн өмд",
+    "price": "79,900 ₮"
+}
+{
+    "sku": "SAB0065465001S-105",
+    "mpn": "SAB0065465001S-105",
+    "description": "NeroхарLong sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320572/product/open-uri20240424-3684239-116ejvt.",
+    "brand": "TERRANOVA",
+    "name": "Цамц",
+    "alternate_name": "Загварлаг чөлөөт цамц",
+    "price": "69,900 ₮"
+}
+{
+    "sku": "SAB0065467001S-105",
+    "mpn": "SAB0065467001S-105",
+    "description": "Neroхарlong",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320582/product/open-uri20240424-3684213-l9li8f.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Рейтузан өмд",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064833001S-014",
+    "mpn": "SAB0064833001S-014",
+    "description": "Avioтод цэнхэрBermuda",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320309/product/open-uri20240424-3684199-1uolfh6.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "32,900 ₮"
+}
+{
+    "sku": "SAB0064835001S-105",
+    "mpn": "SAB0064835001S-105",
+    "description": "NeroхарBermuda",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320337/product/open-uri20240424-3684239-1cavv11.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064846001S-347",
+    "mpn": "SAB0064846001S-347",
+    "description": "Bianco otticoцагаанMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320376/product/open-uri20240424-3684199-152csoy.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064902001S-347",
+    "mpn": "SAB0064902001S-347",
+    "description": "Bianco otticoцагаанlong",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320417/product/open-uri20240424-3684199-1bqcc87.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Чөлөөт өмд",
+    "price": "39,900 ₮"
+}
+{
+    "sku": "SAB0064824001S-354",
+    "mpn": "SAB0064824001S-354",
+    "description": "Grigio chiaro melangeцайвар сааралBermuda",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320302/product/open-uri20240424-3684199-4wg2wo.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064824001S-431",
+    "mpn": "SAB0064824001S-431",
+    "description": "Cieloусан ногоон цэнхэрBermuda",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320304/product/open-uri20240424-3684239-1vpgv1e.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064833001S-105",
+    "mpn": "SAB0064833001S-105",
+    "description": "NeroхарBermuda",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320314/product/open-uri20240424-3684199-fb2ha8.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "32,900 ₮"
+}
+{
+    "sku": "SAB0064846001S-105",
+    "mpn": "SAB0064846001S-105",
+    "description": "NeroхарMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320370/product/open-uri20240424-3684239-14amvzi.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064894001S-119",
+    "mpn": "SAB0064894001S-119",
+    "description": "Rosaягаанround neck",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320410/product/open-uri20240424-3684183-ymi059.",
+    "brand": "TERRANOVA",
+    "name": "Даашинз",
+    "alternate_name": "Даашинз",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064910001S-281",
+    "mpn": "SAB0064910001S-281",
+    "description": "Var rosa scuroхөх эрээнMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320423/product/open-uri20240424-3684213-1aw1uvw.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "27,900 ₮"
+}
+{
+    "sku": "SAB0064848001S-347",
+    "mpn": "SAB0064848001S-347",
+    "description": "Bianco otticoцагаанMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320382/product/open-uri20240424-3684183-lo05bh.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "32,900 ₮"
+}
+{
+    "sku": "SAB0064902001S-105",
+    "mpn": "SAB0064902001S-105",
+    "description": "Neroхарlong",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320415/product/open-uri20240424-3684239-17qh4yv.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Чөлөөт өмд",
+    "price": "39,900 ₮"
+}
+{
+    "sku": "SAB0064842001S-244",
+    "mpn": "SAB0064842001S-244",
+    "description": "Var limeхөх эрээнMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320354/product/open-uri20240424-3684199-19n4nsp.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064835001S-092",
+    "mpn": "SAB0064835001S-092",
+    "description": "LimeшарBermuda",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320330/product/open-uri20240424-3684239-vptk4i.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064842001S-162",
+    "mpn": "SAB0064842001S-162",
+    "description": "Var avioхөх эрээнMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320348/product/open-uri20240424-3684183-1fbmd8b.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064833001S-347",
+    "mpn": "SAB0064833001S-347",
+    "description": "Bianco otticoцагаанBermuda",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320320/product/open-uri20240424-3684239-rhujbv.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "32,900 ₮"
+}
+{
+    "sku": "SAB0064824001S-139",
+    "mpn": "SAB0064824001S-139",
+    "description": "Rosso vivoшүрэн улаанBermuda",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320298/product/open-uri20240424-3684239-1o5jzs2.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064835001S-015",
+    "mpn": "SAB0064835001S-015",
+    "description": "AvorioцагаанBermuda",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320325/product/open-uri20240424-3684213-a4u3ej.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064851001S-370",
+    "mpn": "SAB0064851001S-370",
+    "description": "Var bianco otticoхөх эрээнMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320387/product/open-uri20240424-3684239-1lg86lt.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "27,900 ₮"
+}
+{
+    "sku": "SAB0064884001S-105",
+    "mpn": "SAB0064884001S-105",
+    "description": "NeroхарMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320394/product/open-uri20240424-3684183-liruqf.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064887001S-105",
+    "mpn": "SAB0064887001S-105",
+    "description": "NeroхарMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320400/product/open-uri20240424-3684183-50hzat.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "32,900 ₮"
+}
+{
+    "sku": "SAB0064893001S-281",
+    "mpn": "SAB0064893001S-281",
+    "description": "Var rosa scuroхөх эрээнround neck",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320405/product/open-uri20240424-3684239-wnw76t.",
+    "brand": "TERRANOVA",
+    "name": "Даашинз",
+    "alternate_name": "Даашинз",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064835001S-429",
+    "mpn": "SAB0064835001S-429",
+    "description": "Blu jeansтод цэнхэрBermuda",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320342/product/open-uri20240424-3684213-1wcvgjo.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064783001S-105",
+    "mpn": "SAB0064783001S-105",
+    "description": "NeroхарMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320196/product/open-uri20240424-3684183-13bkqfw.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "27,900 ₮"
+}
+{
+    "sku": "SAB0064810001S-431",
+    "mpn": "SAB0064810001S-431",
+    "description": "Cieloусан ногоон цэнхэрLarge Shoulder",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320275/product/open-uri20240424-3684213-ai2hqk.",
+    "brand": "TERRANOVA",
+    "name": "Дотуур Майк",
+    "alternate_name": "Майк",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064824001S-105",
+    "mpn": "SAB0064824001S-105",
+    "description": "NeroхарBermuda",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320292/product/open-uri20240424-3684239-1f3omao.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064801001S-407",
+    "mpn": "SAB0064801001S-407",
+    "description": "Var blu denim medioхөх эрээнBermuda",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320239/product/open-uri20240424-3684183-yodxnb.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Жинсэн өмд",
+    "price": "54,900 ₮"
+}
+{
+    "sku": "SAB0064810001S-139",
+    "mpn": "SAB0064810001S-139",
+    "description": "Rosso vivoшүрэн улаанLarge Shoulder",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320257/product/open-uri20240424-3684239-1xwv26.",
+    "brand": "TERRANOVA",
+    "name": "Дотуур Майк",
+    "alternate_name": "Майк",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064824001S-036",
+    "mpn": "SAB0064824001S-036",
+    "description": "Blu navyтод цэнхэрBermuda",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320282/product/open-uri20240424-3684213-h2pxjh.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064810001S-074",
+    "mpn": "SAB0064810001S-074",
+    "description": "Giallo soleшарLarge Shoulder",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320245/product/open-uri20240424-3684213-1360c9d.",
+    "brand": "TERRANOVA",
+    "name": "Дотуур Майк",
+    "alternate_name": "Майк",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064810001S-105",
+    "mpn": "SAB0064810001S-105",
+    "description": "NeroхарLarge Shoulder",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320251/product/open-uri20240424-3684183-17um8un.",
+    "brand": "TERRANOVA",
+    "name": "Дотуур Майк",
+    "alternate_name": "Майк",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064810001S-347",
+    "mpn": "SAB0064810001S-347",
+    "description": "Bianco otticoцагаанLarge Shoulder",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320263/product/open-uri20240424-3684213-116r4p2.",
+    "brand": "TERRANOVA",
+    "name": "Дотуур Майк",
+    "alternate_name": "Майк",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064824001S-074",
+    "mpn": "SAB0064824001S-074",
+    "description": "Giallo soleшарBermuda",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320287/product/open-uri20240424-3684183-17chuiu.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064783001S-347",
+    "mpn": "SAB0064783001S-347",
+    "description": "Bianco otticoцагаанMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320206/product/open-uri20240424-3684199-fl9rwl.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "27,900 ₮"
+}
+{
+    "sku": "SAB0064552001S-C97",
+    "mpn": "SAB0064552001S-C97",
+    "description": "Rosa fluo chiaroягаанShort",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319993/product/open-uri20240424-3684213-2xnojq.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064555001S-347",
+    "mpn": "SAB0064555001S-347",
+    "description": "Bianco otticoцагаанShort",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320007/product/open-uri20240424-3684199-zm9sjs.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "27,900 ₮"
+}
+{
+    "sku": "SAB0064557001S-326",
+    "mpn": "SAB0064557001S-326",
+    "description": "Verde acquaногоон цэнхэрShort",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320022/product/open-uri20240424-3684199-dep6fp.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064552001S-105",
+    "mpn": "SAB0064552001S-105",
+    "description": "NeroхарShort",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319980/product/open-uri20240424-3684183-i5es2n.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064552001S-333",
+    "mpn": "SAB0064552001S-333",
+    "description": "Verde melaногоон цэнхэрShort",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319986/product/open-uri20240424-3684199-1ldbrjf.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064557001S-724",
+    "mpn": "SAB0064557001S-724",
+    "description": "Lilla chiaroхөх ягаанShort",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320024/product/open-uri20240424-3684213-zc1hty.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064555001S-105",
+    "mpn": "SAB0064555001S-105",
+    "description": "NeroхарShort",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320002/product/open-uri20240424-3684183-4pidbg.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "27,900 ₮"
+}
+{
+    "sku": "SAB0064542001S-347",
+    "mpn": "SAB0064542001S-347",
+    "description": "Bianco otticoцагаанSopra al ginocchio",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319955/product/open-uri20240424-3684183-ixgd4r.",
+    "brand": "TERRANOVA",
+    "name": "Юбка",
+    "alternate_name": "Банзал (юбка)",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064553001S-281",
+    "mpn": "SAB0064553001S-281",
+    "description": "Var rosa scuroхөх эрээнShort",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319997/product/open-uri20240424-3684199-kl0nun.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "27,900 ₮"
+}
+{
+    "sku": "SAB0064547001S-304",
+    "mpn": "SAB0064547001S-304",
+    "description": "Var verde acquaхөх эрээнShort",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319965/product/open-uri20240424-3684213-apz1g2.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "19,900 ₮"
+}
+{
+    "sku": "SAB0064557001S-066",
+    "mpn": "SAB0064557001S-066",
+    "description": "GialloшарShort",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320012/product/open-uri20240424-3684213-rhjll2.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064557001S-105",
+    "mpn": "SAB0064557001S-105",
+    "description": "NeroхарShort",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320017/product/open-uri20240424-3684183-1wwrlnd.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064546001S-105",
+    "mpn": "SAB0064546001S-105",
+    "description": "NeroхарSopra al ginocchio",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319960/product/open-uri20240424-3684199-1yrhhxd.",
+    "brand": "TERRANOVA",
+    "name": "Юбка",
+    "alternate_name": "Банзал (юбка)",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064548001S-C98",
+    "mpn": "SAB0064548001S-C98",
+    "description": "Var rosa fluo chiaroхөх эрээнShort",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319971/product/open-uri20240424-3684239-xiapga.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "19,900 ₮"
+}
+{
+    "sku": "SAB0064552001S-354",
+    "mpn": "SAB0064552001S-354",
+    "description": "Grigio chiaro melangeцайвар сааралShort",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319991/product/open-uri20240424-3684239-2yi8u7.",
+    "brand": "TERRANOVA",
+    "name": "Шорт",
+    "alternate_name": "Бэлтгэлийн шорт",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0064536001S-105",
+    "mpn": "SAB0064536001S-105",
+    "description": "Neroхарround neck",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319948/product/open-uri20240424-3684199-1knyfcc.",
+    "brand": "TERRANOVA",
+    "name": "Даашинз",
+    "alternate_name": "Даашинз",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064536001S-066",
+    "mpn": "SAB0064536001S-066",
+    "description": "Gialloшарround neck",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319946/product/open-uri20240424-3684183-omusks.",
+    "brand": "TERRANOVA",
+    "name": "Даашинз",
+    "alternate_name": "Даашинз",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0064535001S-347",
+    "mpn": "SAB0064535001S-347",
+    "description": "Bianco otticoцагаанOveralls",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319944/product/open-uri20240424-3684199-17sru8h.",
+    "brand": "TERRANOVA",
+    "name": "Даашинз",
+    "alternate_name": "Даашинз",
+    "price": "49,900 ₮"
+}
+{
+    "sku": "SAB0064536001S-147",
+    "mpn": "SAB0064536001S-147",
+    "description": "Turcheseусан ногоон цэнхэрround neck",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319950/product/open-uri20240424-3684199-405alu.",
+    "brand": "TERRANOVA",
+    "name": "Даашинз",
+    "alternate_name": "Даашинз",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0063501001S-326",
+    "mpn": "SAB0063501001S-326",
+    "description": "Verde acquaногоон цэнхэрMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319210/product/open-uri20240424-3647669-160sjih.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0063333001S-105",
+    "mpn": "SAB0063333001S-105",
+    "description": "Neroхарlong",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319130/product/open-uri20240424-3648484-troz2q.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Рейтузан өмд",
+    "price": "19,900 ₮"
+}
+{
+    "sku": "SAB0063343001S-407",
+    "mpn": "SAB0063343001S-407",
+    "description": "Var blu denim medioхөх эрээнlong",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319135/product/open-uri20240424-3647669-1xbpsre.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Жинсэн өмд",
+    "price": "59,900 ₮"
+}
+{
+    "sku": "SAB0063501001S-476",
+    "mpn": "SAB0063501001S-476",
+    "description": "Fucsia chiaroБараан нил ягаанMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319226/product/open-uri20240424-3647669-1tuccio.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0063501001S-066",
+    "mpn": "SAB0063501001S-066",
+    "description": "GialloшарMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319195/product/open-uri20240424-3647669-1m2ozg0.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0063501001S-122",
+    "mpn": "SAB0063501001S-122",
+    "description": "Rosa fluoягаанMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319207/product/open-uri20240424-3647669-189tjot.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0063501001S-347",
+    "mpn": "SAB0063501001S-347",
+    "description": "Bianco otticoцагаанMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319217/product/open-uri20240424-3648484-1b0azl5.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0063513001S-407",
+    "mpn": "SAB0063513001S-407",
+    "description": "Var blu denim medioхөх эрээнlong",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319231/product/open-uri20240424-3648484-5dradi.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Жинсэн өмд",
+    "price": "79,900 ₮"
+}
+{
+    "sku": "SAB0063525001S-354",
+    "mpn": "SAB0063525001S-354",
+    "description": "Grigio chiaro melangeцайвар сааралMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319237/product/open-uri20240424-3648484-ps88fs.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0063527001S-351",
+    "mpn": "SAB0063527001S-351",
+    "description": "Blu denim scuroтод цэнхэрMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319248/product/open-uri20240424-3648484-nh6sfs.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Поло цамц футболка",
+    "price": "32,900 ₮"
+}
+{
+    "sku": "SAB0063527001S-024",
+    "mpn": "SAB0063527001S-024",
+    "description": "Bianco lanaцагаанMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319242/product/open-uri20240424-3647669-1rtak89.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Поло цамц футболка",
+    "price": "32,900 ₮"
+}
+{
+    "sku": "SAB0063333001S-101",
+    "mpn": "SAB0063333001S-101",
+    "description": "Mentaногоон цэнхэрlong",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319125/product/open-uri20240424-3649379-bb5fx5.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Рейтузан өмд",
+    "price": "19,900 ₮"
+}
+{
+    "sku": "SAB0063501001S-105",
+    "mpn": "SAB0063501001S-105",
+    "description": "NeroхарMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319202/product/open-uri20240424-3647669-1rax0sx.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "24,900 ₮"
+}
+{
+    "sku": "SAB0063328001S-724",
+    "mpn": "SAB0063328001S-724",
+    "description": "Lilla chiaroхөх ягаанlong",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319120/product/open-uri20240424-3648484-o99pgx.",
+    "brand": "TERRANOVA",
+    "name": "Өмд",
+    "alternate_name": "Рейтузан өмд",
+    "price": "19,900 ₮"
+}
+{
+    "sku": "SAB0063375001S-172",
+    "mpn": "SAB0063375001S-172",
+    "description": "Var bianco lanaхөх эрээнMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319143/product/open-uri20240424-3649379-feuw0v.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "32,900 ₮"
+}
+{
+    "sku": "SAB0063301001S-105",
+    "mpn": "SAB0063301001S-105",
+    "description": "NeroхарMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319085/product/open-uri20240424-3648484-x41swc.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "32,900 ₮"
+}
+{
+    "sku": "SAB0063301001S-119",
+    "mpn": "SAB0063301001S-119",
+    "description": "RosaягаанMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319092/product/open-uri20240424-3647669-q4uz6g.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "32,900 ₮"
+}
+{
+    "sku": "SAB0063288001S-105",
+    "mpn": "SAB0063288001S-105",
+    "description": "NeroхарMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319053/product/open-uri20240424-3648484-15o8cj2.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "32,900 ₮"
+}
+{
+    "sku": "SAB0063314001S-823",
+    "mpn": "SAB0063314001S-823",
+    "description": "Var Rosa bubbleхөх эрээнLong sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319115/product/open-uri20240424-3646643-1meiyi1.",
+    "brand": "TERRANOVA",
+    "name": "Цамц",
+    "alternate_name": "Загварлаг чөлөөт цамц",
+    "price": "34,900 ₮"
+}
+{
+    "sku": "SAB0063294001S-347",
+    "mpn": "SAB0063294001S-347",
+    "description": "Bianco otticoцагаанMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319068/product/open-uri20240424-3648484-1w4yr9o.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "34,900 ₮"
+}
+{
+    "sku": "SAB0063314001S-257",
+    "mpn": "SAB0063314001S-257",
+    "description": "Var neroхөх эрээнLong sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319107/product/open-uri20240424-3648484-730h7f.",
+    "brand": "TERRANOVA",
+    "name": "Цамц",
+    "alternate_name": "Загварлаг чөлөөт цамц",
+    "price": "34,900 ₮"
+}
+{
+    "sku": "SAB0063288001S-024",
+    "mpn": "SAB0063288001S-024",
+    "description": "Bianco lanaцагаанMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319048/product/open-uri20240424-3646643-dny411.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "32,900 ₮"
+}
+{
+    "sku": "SAB0063299001S-347",
+    "mpn": "SAB0063299001S-347",
+    "description": "Bianco otticoцагаанMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319080/product/open-uri20240424-3647669-1r8lqo7.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0063303001S-105",
+    "mpn": "SAB0063303001S-105",
+    "description": "NeroхарMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319098/product/open-uri20240424-3647669-9nzm69.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "27,900 ₮"
+}
+{
+    "sku": "SAB0063288001S-119",
+    "mpn": "SAB0063288001S-119",
+    "description": "RosaягаанMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319061/product/open-uri20240424-3647669-9c0w9b.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "32,900 ₮"
+}
+{
+    "sku": "SAB0063299001S-119",
+    "mpn": "SAB0063299001S-119",
+    "description": "RosaягаанMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319074/product/open-uri20240424-3648484-1iwidpz.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "SAB0063303001S-347",
+    "mpn": "SAB0063303001S-347",
+    "description": "Bianco otticoцагаанMid sleeve",
+    "image_url": "https://cdnp.cody.mn/spree/images/2319105/product/open-uri20240424-3648484-zr4dq3.",
+    "brand": "TERRANOVA",
+    "name": "Футболк",
+    "alternate_name": "Чөлөөт футболка",
+    "price": "27,900 ₮"
+}
+{
+    "sku": "UF23-07305B-PW",
+    "mpn": "UF23-07305B-PW",
+    "description": "Бээлий",
+    "image_url": "https://cdnp.cody.mn/spree/images/2321403/product/UF23-07305Bm_5-6y-PW_1.jpg",
+    "brand": "TONOT",
+    "name": "Хүүхдийн бээлий",
+    "alternate_name": "Бээлий",
+    "price": "48,000 ₮"
+}
+{
+    "sku": "UF23-06905A-BR",
+    "mpn": "UF23-06905A-BR",
+    "description": "Чөлөөт оймс",
+    "image_url": "https://cdnp.cody.mn/spree/images/2321409/product/UF23-06905As_2-3y-BR.jpg",
+    "brand": "TONOT",
+    "name": "Оймс, резинтэй",
+    "alternate_name": "Чөлөөт оймс",
+    "price": "46,000 ₮"
+}
+{
+    "sku": "UF23-06905A-RB",
+    "mpn": "UF23-06905A-RB",
+    "description": "Чөлөөт оймс",
+    "image_url": "https://cdnp.cody.mn/spree/images/2321407/product/UF23-06905Axl_7-8y-RB.jpg",
+    "brand": "TONOT",
+    "name": "Оймс, резинтэй",
+    "alternate_name": "Чөлөөт оймс",
+    "price": "54,000 ₮"
+}
+{
+    "sku": "UF23-06905A-WS",
+    "mpn": "UF23-06905A-WS",
+    "description": "Чөлөөт оймс",
+    "image_url": "https://cdnp.cody.mn/spree/images/2321406/product/UF23-06905Am_3-4y-WS.jpg",
+    "brand": "TONOT",
+    "name": "Оймс, резинтэй",
+    "alternate_name": "Чөлөөт оймс",
+    "price": "46,000 ₮"
+}
+{
+    "sku": "UF23-07305B-EY",
+    "mpn": "UF23-07305B-EY",
+    "description": "Бээлий",
+    "image_url": "https://cdnp.cody.mn/spree/images/2321404/product/UF23-07305Bs_3-4y-EY_1.jpg",
+    "brand": "TONOT",
+    "name": "Хүүхдийн бээлий",
+    "alternate_name": "Бээлий",
+    "price": "32,000 ₮"
+}
+{
+    "sku": "UF23-07305B-WS",
+    "mpn": "UF23-07305B-WS",
+    "description": "Бээлий",
+    "image_url": "https://cdnp.cody.mn/spree/images/2321395/product/UF23-07305Bs_3-4y-WS_1.jpg",
+    "brand": "TONOT",
+    "name": "Хүүхдийн бээлий",
+    "alternate_name": "Бээлий",
+    "price": "32,000 ₮"
+}
+{
+    "sku": "UF23-06905A-EY",
+    "mpn": "UF23-06905A-EY",
+    "description": "Чөлөөт оймс",
+    "image_url": "https://cdnp.cody.mn/spree/images/2321408/product/UF23-06905Axs_1-2y-EY_2.jpg",
+    "brand": "TONOT",
+    "name": "Оймс, резинтэй",
+    "alternate_name": "Чөлөөт оймс",
+    "price": "38,000 ₮"
+}
+{
+    "sku": "UF23-07305B-RB",
+    "mpn": "UF23-07305B-RB",
+    "description": "Бээлий",
+    "image_url": "https://cdnp.cody.mn/spree/images/2321398/product/UF23-07305Bs_3-4y-RB_1.jpg",
+    "brand": "TONOT",
+    "name": "Хүүхдийн бээлий",
+    "alternate_name": "Бээлий",
+    "price": "48,000 ₮"
+}
+{
+    "sku": "UF23-07305B-TW",
+    "mpn": "UF23-07305B-TW",
+    "description": "Бээлий",
+    "image_url": "https://cdnp.cody.mn/spree/images/2321396/product/UF23-07305Bs_3-4y-TW_1.jpg",
+    "brand": "TONOT",
+    "name": "Хүүхдийн бээлий",
+    "alternate_name": "Бээлий",
+    "price": "48,000 ₮"
+}
+{
+    "sku": "UF23-06905A-BG",
+    "mpn": "UF23-06905A-BG",
+    "description": "Чөлөөт оймс",
+    "image_url": "https://cdnp.cody.mn/spree/images/2321410/product/UF23-06905Al_5-6y-BG_2.jpg",
+    "brand": "TONOT",
+    "name": "Оймс, резинтэй",
+    "alternate_name": "Чөлөөт оймс",
+    "price": "46,000 ₮"
+}
+{
+    "sku": "UF23-07305B-BG",
+    "mpn": "UF23-07305B-BG",
+    "description": "Бээлий",
+    "image_url": "https://cdnp.cody.mn/spree/images/2321405/product/UF23-07305Bm_5-6y-BG_1.jpg",
+    "brand": "TONOT",
+    "name": "Хүүхдийн бээлий",
+    "alternate_name": "Бээлий",
+    "price": "40,000 ₮"
+}
+{
+    "sku": "bibs_tedy",
+    "mpn": "bibs_tedy",
+    "description": "Нярайн энгэрэвч, шүлсэвч",
+    "image_url": "https://cdnp.cody.mn/spree/images/2188350/product/DSC03702-Edit.jpg",
+    "brand": "UR MINE",
+    "name": "Энгэрэвч",
+    "alternate_name": "Нярайн энгэрэвч, шүлсэвч",
+    "price": "45,900 ₮"
+}
+{
+    "sku": "leggins_blue",
+    "mpn": "leggins_blue",
+    "description": "Хүүхдийн рейтузан өмд",
+    "image_url": "https://cdnp.cody.mn/spree/images/2308088/product/DSC03599.jpg",
+    "brand": "UR MINE",
+    "name": "Ретүүз",
+    "alternate_name": "Хүүхдийн рейтузан өмд",
+    "price": "29,900 ₮"
+}
+{
+    "sku": "cashmere_4",
+    "mpn": "cashmere_4",
+    "description": "Нярайн энгэрэвч, шүлсэвч",
+    "image_url": "https://cdnp.cody.mn/spree/images/2249995/product/DSC01239.jpg",
+    "brand": "UR MINE",
+    "name": "Ноолууран гэдсэвч",
+    "alternate_name": "Нярайн энгэрэвч, шүлсэвч",
+    "price": "59,900 ₮"
+}
+{
+    "sku": "bibs_beige",
+    "mpn": "bibs_beige",
+    "description": "Нярайн энгэрэвч, шүлсэвч",
+    "image_url": "https://cdnp.cody.mn/spree/images/2188343/product/DSC03671-Edit.jpg",
+    "brand": "UR MINE",
+    "name": "Энгэрэвч",
+    "alternate_name": "Нярайн энгэрэвч, шүлсэвч",
+    "price": "45,900 ₮"
+}
+{
+    "sku": "8654001709268",
+    "mpn": "8654001709268",
+    "description": "Хүүхдийн шүдлэлтийн тоглоом нь 100% хөвөн даавуун утсаар эх бие нь нэхэгдсэн бол, бариул нь бактери үржихгүй хулсаар хийгдсэн. Хүүхдийн жижиг гарын булчин хөгжиж эхлэх үед гарт нь бариулж саатуулах, шүд нь ургаж эхлэх үед хазаж тоглох зориулалттай уг тоглоом нь хүүхэд сэгсэрч саатах явцад өөрийгөө цохисон ч гэмтээхгүй байхаар бодож хийсэн.",
+    "image_url": "https://cdnp.cody.mn/spree/images/1800394/product/ed230965-5594-4c70-96ab-c0a9a11a4b6b_t1500.jpg",
+    "brand": "UR MINE",
+    "name": "Шүдлэлтийн тоглоом ",
+    "alternate_name": "Хүүхэд саатуулагч",
+    "price": "18,000 ₮"
+}
+{
+    "sku": "cashmere_2",
+    "mpn": "cashmere_2",
+    "description": "Нимгэн, дотуур бээлий",
+    "image_url": "https://cdnp.cody.mn/spree/images/2001554/product/311339611_2014389705417515_1713105763485601135_n.jpg",
+    "brand": "UR MINE",
+    "name": "Ноолууран бээлий ",
+    "alternate_name": "Нимгэн, дотуур бээлий",
+    "price": "49,900 ₮"
+}
+{
+    "sku": "320",
+    "mpn": "320",
+    "description": "Гэдэсний даруулгатай өмд нь гэдэс дүүрэхээс сэргийлэхээс гадна хөлөргөхгүй, нимгэн хэрнээ дулаан, олон хувцас давхар өмсгөх шаардлагагүйгээрээ онцлог.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2010733/product/316306677_2048281338695018_5580356017830928209_n.jpg",
+    "brand": "UR MINE",
+    "name": "Comfy Ноолууран өмд ",
+    "alternate_name": "Хүүхдийн чөлөөт өмд",
+    "price": "175,900 ₮"
+}
+{
+    "sku": "VH19016-P",
+    "mpn": "VH19016-P",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320334/product/VH19016-P.png",
+    "brand": "TEZA",
+    "name": "Marvel Black Panther keychain",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,500 ₮"
+}
+{
+    "sku": "DHF74971-S",
+    "mpn": "DHF74971-S",
+    "description": "Spiderman backpack",
+    "image_url": "https://cdnp.cody.mn/spree/images/2320277/product/DHF74971-S__2.JPG",
+    "brand": "TEZA",
+    "name": "Marvel - Spiderman ",
+    "alternate_name": "Загварлаг үүргэвч",
+    "price": "27,000 ₮"
+}
+{
+    "sku": "DHF74971-T",
+    "mpn": "DHF74971-T",
+    "description": "Материал: Неопрен, ПолиэстерХэмжээ:28x23x9Бүтээгдэхүүний жин: 320грУс нэвтэрдэггүй зөөлөн материал болох неопреноор хийгдсэн. Бяцхан үрсээ тойрон алхахад ойрхон байлгах үүднээсаюулгүйнбэхэлгээний оосортой.",
+    "image_url": "https://cdnp.cody.mn/spree/images/985906/product/IMG_9382-2.jpg",
+    "brand": "TEZA",
+    "name": "Марвел-Ахмад америк Хүүхдийн үүргэвч,бөөрөнхий бичиггүй",
+    "alternate_name": "Загварлаг үүргэвч",
+    "price": "27,000 ₮"
+}
+{
+    "sku": "VH85253-LS",
+    "mpn": "VH85253-LS",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317325/product/VH85253-LS_1-removebg-preview.png",
+    "brand": "TEZA",
+    "name": "Marvel Thor keychain",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "5,500 ₮"
+}
+{
+    "sku": "VH85128-S",
+    "mpn": "VH85128-S",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317330/product/VH85128-S-removebg-preview.png",
+    "brand": "TEZA",
+    "name": "Marvel Spiderman",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,500 ₮"
+}
+{
+    "sku": "DH19016-C",
+    "mpn": "DH19016-C",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317344/product/DH19016-C.jpg",
+    "brand": "TEZA",
+    "name": "Disney Pooh keychain",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,500 ₮"
+}
+{
+    "sku": "VH19016-T",
+    "mpn": "VH19016-T",
+    "description": "PVC, Metal.\nAge of use: 4 years or older - түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317341/product/VH19016-T.jpg",
+    "brand": "TEZA",
+    "name": "Marvel Captain america keychain",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,500 ₮"
+}
+{
+    "sku": "VH19016-S",
+    "mpn": "VH19016-S",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317346/product/VH19016-S.jpg",
+    "brand": "TEZA",
+    "name": "Marvel Spiderman keychain",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,500 ₮"
+}
+{
+    "sku": "DH19016-N",
+    "mpn": "DH19016-N",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317345/product/DH19016-N.jpg",
+    "brand": "TEZA",
+    "name": "Disney Toy story keychain",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,500 ₮"
+}
+{
+    "sku": "DH75002-A",
+    "mpn": "DH75002-A",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317339/product/DH75002-A.jpg",
+    "brand": "TEZA",
+    "name": "Disney Mickey mouse",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "3,500 ₮"
+}
+{
+    "sku": "VH85253-L",
+    "mpn": "VH85253-L",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317321/product/vh85253-l.jpg",
+    "brand": "TEZA",
+    "name": "Marvel Hulk keychain",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "5,500 ₮"
+}
+{
+    "sku": "DCZ71180-B-B",
+    "mpn": "DCZ71180-B-B",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317338/product/DCZ71180-B-B_1-removebg-preview.png",
+    "brand": "TEZA",
+    "name": "Disney Minnie mouse",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,000 ₮"
+}
+{
+    "sku": "VH19016-I",
+    "mpn": "VH19016-I",
+    "description": "PVC, Metal.\nAge of use: 4 years or older - түлхүүрийн оосор.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317340/product/VH19016-I.jpg",
+    "brand": "TEZA",
+    "name": "Marvel Ironman keychain",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,500 ₮"
+}
+{
+    "sku": "VH19016-TS",
+    "mpn": "VH19016-TS",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317348/product/VH19016-TS.jpg",
+    "brand": "TEZA",
+    "name": "Marvel keychain",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,500 ₮"
+}
+{
+    "sku": "VH85128-T",
+    "mpn": "VH85128-T",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317334/product/VH85128-T.png",
+    "brand": "TEZA",
+    "name": "Marvel Captain america",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,500 ₮"
+}
+{
+    "sku": "VH85128-I",
+    "mpn": "VH85128-I",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317329/product/VH85128-I-removebg-preview.png",
+    "brand": "TEZA",
+    "name": "Marvel Ironman",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,500 ₮"
+}
+{
+    "sku": "XH19035",
+    "mpn": "XH19035",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317342/product/XH19035.jpg",
+    "brand": "TEZA",
+    "name": "Disney Minion keychain",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,500 ₮"
+}
+{
+    "sku": "DH75007-A1",
+    "mpn": "DH75007-A1",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317328/product/DH75007-A1.jpg",
+    "brand": "TEZA",
+    "name": "Disney Mickey mouse",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "5,500 ₮"
+}
+{
+    "sku": "DH75002-B",
+    "mpn": "DH75002-B",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317349/product/5b73f861N8c975e37.jpg.png",
+    "brand": "TEZA",
+    "name": "Disney Minnie mouse",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "3,500 ₮"
+}
+{
+    "sku": "DH19016-A",
+    "mpn": "DH19016-A",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317343/product/DH19016-A.jpg",
+    "brand": "TEZA",
+    "name": "Disney Mickey keychain",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,500 ₮"
+}
+{
+    "sku": "VH19016-LS",
+    "mpn": "VH19016-LS",
+    "description": "THOR PVC Keychain\nVH1916-LS Material: PVC Size:4.5cm\nColor: Grey түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317347/product/VH19016-LS.jpg",
+    "brand": "TEZA",
+    "name": "Marvel Thor keychain",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,500 ₮"
+}
+{
+    "sku": "DCZ71180-A",
+    "mpn": "DCZ71180-A",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317336/product/DCZ71180-A_1-removebg-preview.png",
+    "brand": "TEZA",
+    "name": "Disney Mickey mouse",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,000 ₮"
+}
+{
+    "sku": "VCZ71176-I-I",
+    "mpn": "VCZ71176-I-I",
+    "description": "Түлхүүрийн оосор",
+    "image_url": "https://cdnp.cody.mn/spree/images/2317333/product/VCZ71176-I-I_1-removebg-preview.png",
+    "brand": "TEZA",
+    "name": "Marvel Ironman",
+    "alternate_name": "Түлхүүрийн оосор",
+    "price": "4,000 ₮"
+}
+{
+    "sku": "3160184",
+    "mpn": "3160184",
+    "description": "Хавар намрын дотортой, ус цасны хамгаалалтай, нумтай, агаар нэвтрүүлдэг. Цахилгаантай",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314676/product/3160184.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "3160213-5",
+    "mpn": "3160213-5",
+    "description": "нумтай, агаар нэвтрүүлдэг",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314668/product/3160213-5.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "3160193-7",
+    "mpn": "3160193-7",
+    "description": "нумтай, агаар нэвтрүүлдэг. Цахилгаантай",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314675/product/3160193-7.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "379,000 ₮"
+}
+{
+    "sku": "3160182-4",
+    "mpn": "3160182-4",
+    "description": "Хавар намрын дотортой, ус цасны хамгаалалтай, нумтай, агаар нэвтрүүлдэг. Цахилгаантай",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314677/product/3160182-4.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "2110096-4",
+    "mpn": "2110096-4",
+    "description": "Хавар намрын дотортой, нумтай, агаар нэвтрүүлдэг, цахилгаантай",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314823/product/2110096-4.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "299,000 ₮"
+}
+{
+    "sku": "3110209-1",
+    "mpn": "3110209-1",
+    "description": "нумтай, агаар нэвтрүүлдэг",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314743/product/3110209-1.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын пүүз, кээт",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "3110232-6",
+    "mpn": "3110232-6",
+    "description": "нумтай, агаар нэвтрүүлдэг, хоншоорны хамгаалалттай",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314733/product/3110232-6.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын пүүз, кээт",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "369,000 ₮"
+}
+{
+    "sku": "3160134-3",
+    "mpn": "3160134-3",
+    "description": "нумтай, агаар нэвтрүүлдэг. Цахилгаантай",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314687/product/3160134-3.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "2130285",
+    "mpn": "2130285",
+    "description": "нумтай, агаар нэвтрүүлдэг",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314782/product/2130285.jpg",
+    "brand": "FRODDO",
+    "name": "зун, хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "289,000 ₮"
+}
+{
+    "sku": "3160176",
+    "mpn": "3160176",
+    "description": "нумтай, агаар нэвтрүүлдэг. Цахилгаантай",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314680/product/3160176.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "2130283-2",
+    "mpn": "2130283-2",
+    "description": "нумтай, агаар нэвтрүүлдэг",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314798/product/2130283-2.jpg",
+    "brand": "FRODDO",
+    "name": "зун, хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "289,000 ₮"
+}
+{
+    "sku": "3110171",
+    "mpn": "3110171",
+    "description": "нумтай, агаар нэвтрүүлдэг, хоншоорны хамгаалалттай",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314773/product/3110171.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын пүүз, кээт",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "3110174-3",
+    "mpn": "3110174-3",
+    "description": "нумтай, агаар нэвтрүүлдэг, автомат үдээстэй",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314768/product/3110174-3.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "3110174-5",
+    "mpn": "3110174-5",
+    "description": "нумтай, агаар нэвтрүүлдэг, автомат үдээстэй",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314766/product/3110174-5.jpg",
+    "brand": "FRODDO",
+    "name": "зун, хавар намрын пүүз",
+    "alternate_name": "зун, хавар намрын пүүз",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "3110234",
+    "mpn": "3110234",
+    "description": "Хавар намрын дотортой, ус цасны хамгаалалтай, нумтай, агаар нэвтрүүлдэг, хошоорын хамгаалалттай",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314729/product/3110234.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын пүүз, кээт",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "3110209",
+    "mpn": "3110209",
+    "description": "нумтай, агаар нэвтрүүлдэг",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314749/product/3110209.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын пүүз, кээт",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "3110238",
+    "mpn": "3110238",
+    "description": "Хавар намрын дотортой, ус цасны хамгаалалтай, нумтай, агаар нэвтрүүлдэг",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314715/product/3110238.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "2110120",
+    "mpn": "2110120",
+    "description": "Хавар намрын дотортой, нумтай, агаар нэвтрүүлдэг, цахилгаантай",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314819/product/2110120.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "299,000 ₮"
+}
+{
+    "sku": "2110120-3",
+    "mpn": "2110120-3",
+    "description": "Хавар намрын дотортой, нумтай, агаар нэвтрүүлдэг, цахилгаантай",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314807/product/2110120-3.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "299,000 ₮"
+}
+{
+    "sku": "3160140-1",
+    "mpn": "3160140-1",
+    "description": "нумтай, агаар нэвтрүүлдэг. Цахилгаантай",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314713/product/3160140-1.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "379,000 ₮"
+}
+{
+    "sku": "3160146-2",
+    "mpn": "3160146-2",
+    "description": "нумтай, агаар нэвтрүүлдэг. Цахилгаантай",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314685/product/3160146-2.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "2130284-12",
+    "mpn": "2130284-12",
+    "description": "нумтай, агаар нэвтрүүлдэг",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314785/product/2130284-12.jpg",
+    "brand": "FRODDO",
+    "name": "зун, хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "289,000 ₮"
+}
+{
+    "sku": "3110156-6",
+    "mpn": "3110156-6",
+    "description": "Хавар намрын дотортой, ус цасны хамгаалалтай, нумтай, агаар нэвтрүүлдэг",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314776/product/3110156-6.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "3110210-3",
+    "mpn": "3110210-3",
+    "description": "нумтай, агаар нэвтрүүлдэг. Цахилгаантай",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314738/product/3110210-3.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "3110233-4",
+    "mpn": "3110233-4",
+    "description": "нумтай, агаар нэвтрүүлдэг",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314731/product/3110233-4.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын пүүз, кээт",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "369,000 ₮"
+}
+{
+    "sku": "2160030-6",
+    "mpn": "2160030-6",
+    "description": "нумтай, агаар нэвтрүүлдэг",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314779/product/2160030-6.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "299,000 ₮"
+}
+{
+    "sku": "3110183-1",
+    "mpn": "3110183-1",
+    "description": "Хавар намрын дотортой, ус цасны хамгаалалтай, нумтай, агаар нэвтрүүлдэг",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314764/product/3110183-1.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "3110208-1",
+    "mpn": "3110208-1",
+    "description": "нумтай, агаар нэвтрүүлдэг, автомат үдээстэй",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314751/product/3110208-1.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын гутал",
+    "alternate_name": "Гутал ( Бүүтс )",
+    "price": "389,000 ₮"
+}
+{
+    "sku": "3110224-3a",
+    "mpn": "3110224-3a",
+    "description": "нумгүй, хөл нүцгэн буй мэт мэдрэмжтэй хөнгөн зөөлөн, агаар нэвтрүүлдэг",
+    "image_url": "https://cdnp.cody.mn/spree/images/2314735/product/3110224-3a.jpg",
+    "brand": "FRODDO",
+    "name": "хавар намрын пүүз, кээт",
+    "alternate_name": "Кет (Сникерс)",
+    "price": "349,000 ₮"
+}
+{
+    "sku": "209431-001",
+    "mpn": "209431-001",
+    "description": "Off Grid Clog K Blk",
+    "image_url": "https://cdnp.cody.mn/spree/images/2313063/product/open-uri20240419-3383322-2ftxb3.",
+    "brand": "Crocs",
+    "name": "Off Grid Clog K Blk",
+    "alternate_name": "КЛОГ гутал",
+    "price": "189,000 ₮"
+}
+{
+    "sku": "206991-5AF",
+    "mpn": "206991-5AF",
+    "description": "Classic Clog K Dsp",
+    "image_url": "https://cdnp.cody.mn/spree/images/2313057/product/open-uri20240419-3382521-hxno7w.",
+    "brand": "Crocs",
+    "name": "Classic Clog K Dsp",
+    "alternate_name": "КЛОГ гутал",
+    "price": "149,000 ₮"
+}
+{
+    "sku": "209700-3WA",
+    "mpn": "209700-3WA",
+    "description": "Classic I AM Dinosaur Clog T GrSl",
+    "image_url": "https://cdnp.cody.mn/spree/images/2313088/product/open-uri20240419-3384883-v7ww2t.",
+    "brand": "Crocs",
+    "name": "Classic I AM Dinosaur Clog T GrSl",
+    "alternate_name": "КЛОГ гутал",
+    "price": "169,000 ₮"
+}
+{
+    "sku": "209572-100",
+    "mpn": "209572-100",
+    "description": "Classic Geometric Clog K Whi",
+    "image_url": "https://cdnp.cody.mn/spree/images/2313082/product/open-uri20240419-3384883-amy5id.",
+    "brand": "Crocs",
+    "name": "Classic Geometric Clog K Whi",
+    "alternate_name": "КЛОГ гутал",
+    "price": "169,000 ₮"
+}
+{
+    "sku": "209701-0WV",
+    "mpn": "209701-0WV",
+    "description": "Classic IAM Rainbow UnicornCgT Chk",
+    "image_url": "https://cdnp.cody.mn/spree/images/2313095/product/open-uri20240419-3382521-hi1dxx.",
+    "brand": "Crocs",
+    "name": "Classic IAM Rainbow UnicornCgT Chk",
+    "alternate_name": "КЛОГ гутал",
+    "price": "169,000 ₮"
+}
+{
+    "sku": "206991-2Y2",
+    "mpn": "206991-2Y2",
+    "description": "Classic Clog K Bone",
+    "image_url": "https://cdnp.cody.mn/spree/images/2313051/product/open-uri20240419-3383322-14gu5eo.",
+    "brand": "Crocs",
+    "name": "Classic Clog K Bone",
+    "alternate_name": "КЛОГ гутал",
+    "price": "149,000 ₮"
+}
+{
+    "sku": "209572-001",
+    "mpn": "209572-001",
+    "description": "Classic Geometric Clog K Blk",
+    "image_url": "https://cdnp.cody.mn/spree/images/2313076/product/open-uri20240419-3384678-1qa2ngw.",
+    "brand": "Crocs",
+    "name": "Classic Geometric Clog K Blk",
+    "alternate_name": "КЛОГ гутал",
+    "price": "169,000 ₮"
+}
+{
+    "sku": "209431-606",
+    "mpn": "209431-606",
+    "description": "Off Grid Clog K PPk",
+    "image_url": "https://cdnp.cody.mn/spree/images/2313070/product/open-uri20240419-3384883-63uosr.",
+    "brand": "Crocs",
+    "name": "Off Grid Clog K PPk",
+    "alternate_name": "КЛОГ гутал",
+    "price": "189,000 ₮"
+}
+{
+    "sku": "4064151-6000",
+    "mpn": "4064151-6000",
+    "description": "Гутал",
+    "image_url": "https://cdnp.cody.mn/spree/images/2304542/product/open-uri20240412-3005253-zjb4kz.",
+    "brand": "Jack Wolfskin",
+    "name": "CYROX TEXAPORE DIAL MID K",
+    "alternate_name": "Уулын хөнгөн гутал",
+    "price": "379,000 ₮"
+}
+{
+    "sku": "4064151-1325",
+    "mpn": "4064151-1325",
+    "description": "Гутал",
+    "image_url": "https://cdnp.cody.mn/spree/images/2304480/product/open-uri20240412-3005271-yohf5d.",
+    "brand": "Jack Wolfskin",
+    "name": "CYROX TEXAPORE DIAL MID K",
+    "alternate_name": "Уулын хөнгөн гутал",
+    "price": "379,000 ₮"
+}
+{
+    "sku": "4062781-2428",
+    "mpn": "4062781-2428",
+    "description": "Гутал",
+    "image_url": "https://cdnp.cody.mn/spree/images/2304495/product/open-uri20240412-3005289-1b9ljvt.",
+    "brand": "Jack Wolfskin",
+    "name": "CYROX TEXAPORE LOW K",
+    "alternate_name": "Уулын хөнгөн гутал",
+    "price": "299,000 ₮"
+}
+{
+    "sku": "4062781-6000",
+    "mpn": "4062781-6000",
+    "description": "Гутал",
+    "image_url": "https://cdnp.cody.mn/spree/images/2304385/product/open-uri20240412-3005235-nfqgaq.",
+    "brand": "Jack Wolfskin",
+    "name": "CYROX TEXAPORE LOW K",
+    "alternate_name": "Уулын хөнгөн гутал",
+    "price": "319,000 ₮"
+}
+{
+    "sku": "4062781-4137",
+    "mpn": "4062781-4137",
+    "description": "Гутал",
+    "image_url": "https://cdnp.cody.mn/spree/images/2304381/product/open-uri20240412-3005289-ofqomy.",
+    "brand": "Jack Wolfskin",
+    "name": "CYROX TEXAPORE LOW K",
+    "alternate_name": "Уулын хөнгөн гутал",
+    "price": "299,000 ₮"
+}
+{
+    "sku": "4062771-6000",
+    "mpn": "4062771-6000",
+    "description": "Гутал",
+    "image_url": "https://cdnp.cody.mn/spree/images/2304377/product/open-uri20240412-3005235-148x51o.",
+    "brand": "Jack Wolfskin",
+    "name": "CYROX TEXAPORE MID K",
+    "alternate_name": "Уулын хөнгөн гутал",
+    "price": "339,000 ₮"
+}
+{
+    "sku": "77511G",
+    "mpn": "77511G",
+    "description": "35см өндөртэй төрөл бүрийн амттан барьсан зөөлөн чихмэл тоглоомууд.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2303350/product/5418963-77511G-W2-1.jpg",
+    "brand": "SNACKLES",
+    "name": "77511G SNACKLES Chicken&Tabasco чихмэл тоглоом 35cм S1W2",
+    "alternate_name": "SNACKLES чихмэл тоглоом 35cм-Табаско тэвэрсэн дэгдээхий",
+    "price": "80,000 ₮"
+}
+{
+    "sku": "77511D",
+    "mpn": "77511D",
+    "description": "35см өндөртэй төрөл бүрийн амттан барьсан зөөлөн чихмэл тоглоомууд.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2297213/product/1.jpg",
+    "brand": "SNACKLES",
+    "name": "77511D SNACKLES Bunny&Chupa Chups чихмэл тоглоом 35cм S1W2",
+    "alternate_name": "SNACKLES чихмэл тоглоом 35cм-Чупа чупс тэвэрсэн туулай",
+    "price": "80,000 ₮"
+}
+{
+    "sku": "77511J",
+    "mpn": "77511J",
+    "description": "35см өндөртэй төрөл бүрийн амттан барьсан зөөлөн чихмэл тоглоомууд.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2297168/product/1.jpg",
+    "brand": "SNACKLES",
+    "name": "77511J SNACKLES Corgi&Hershey's Milk Chocolate чихмэл тоглоом 35cм S1W2",
+    "alternate_name": "SNACKLES чихмэл тоглоом 35cм-Шоколад тэвэрсэн корги нохой",
+    "price": "80,000 ₮"
+}
+{
+    "sku": "77511K",
+    "mpn": "77511K",
+    "description": "35см өндөртэй төрөл бүрийн амттан барьсан зөөлөн чихмэл тоглоомууд.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2297163/product/1.jpg",
+    "brand": "SNACKLES",
+    "name": "77511K SNACKLES Hippo&Cinnabon чихмэл тоглоом 35cм S1W2",
+    "alternate_name": "SNACKLES чихмэл тоглоом 35cм-Синнабон тэвэрсэн усны үхэр",
+    "price": "80,000 ₮"
+}
+{
+    "sku": "77511B",
+    "mpn": "77511B",
+    "description": "35см өндөртэй төрөл бүрийн амттан барьсан зөөлөн чихмэл тоглоомууд.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2297228/product/1.jpg",
+    "brand": "SNACKLES",
+    "name": "77511B SNACKLES Unicorn&Bazooka чихмэл тоглоом 35cм S1W2",
+    "alternate_name": "SNACKLES чихмэл тоглоом 35cм-Чихэр тэвэрсэн ганц эвэрт",
+    "price": "80,000 ₮"
+}
+{
+    "sku": "77511E",
+    "mpn": "77511E",
+    "description": "35см өндөртэй төрөл бүрийн амттан барьсан зөөлөн чихмэл тоглоомууд.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2297189/product/1.jpg",
+    "brand": "SNACKLES",
+    "name": "77511E SNACKLES Bear&Pringles чихмэл тоглоом 35cм S1W2",
+    "alternate_name": "SNACKLES чихмэл тоглоом 35cм-Принглс тэвэрсэн бамбарууш",
+    "price": "80,000 ₮"
+}
+{
+    "sku": "77511H",
+    "mpn": "77511H",
+    "description": "35см өндөртэй төрөл бүрийн амттан барьсан зөөлөн чихмэл тоглоомууд.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2297176/product/1.jpg",
+    "brand": "SNACKLES",
+    "name": "77511H SNACKLES Elephant&Mentos чихмэл тоглоом 35cм S1W2",
+    "alternate_name": "SNACKLES чихмэл тоглоом 35cм-Чупа чупс тэвэрсэн заан",
+    "price": "80,000 ₮"
+}
+{
+    "sku": "77511R",
+    "mpn": "77511R",
+    "description": "35см өндөртэй төрөл бүрийн амттан барьсан зөөлөн чихмэл тоглоомууд.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2297144/product/1.jpg",
+    "brand": "SNACKLES",
+    "name": "77511R SNACKLES Gold bear&Haribo чихмэл тоглоом 35cм S1W2",
+    "alternate_name": "SNACKLES чихмэл тоглоом 35cм-Харибо тэвэрсэн хаски бамбарууш",
+    "price": "80,000 ₮"
+}
+{
+    "sku": "9543",
+    "mpn": "9543",
+    "description": "Сүрприз өндгийг задлахад 4 төрлийн үхэр зусгаас нэг нь гарч ирнэ. Дээр нь дарахад урагшаа өөрөө явж, 20 гаруй төрлийн дуу авиа гаргадаг. 2ш ААА баттерэй орно.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2301860/product/1.jpg",
+    "brand": "PETS ALIVE",
+    "name": "9543 PETS ALIVE Hamstermania S1  хөдөлгөөнт тоглоом /PDQ,11ш/",
+    "alternate_name": "Хөдөлгөөнт чихмэл тоглоом",
+    "price": "33,000 ₮"
+}
+{
+    "sku": "9541",
+    "mpn": "9541",
+    "description": "Сүрприз савыг задлахад 7 төрлийн чихмэл муурнаас аль нэг нь гарч ирнэ. Сүрприз жижиг тоглоомууд дагалдана.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2297119/product/pets-alive-smitten-kitten-s1-interactive-plush.jpg",
+    "brand": "PETS ALIVE",
+    "name": "9541 PETS ALIVE Smitten Kittens S1 сүрприз чихмэл муур",
+    "alternate_name": " PETS ALIVE Smitten Kittens сүрприз чихмэл муур-цуврал 1",
+    "price": "45,000 ₮"
+}
+{
+    "sku": "77511L",
+    "mpn": "77511L",
+    "description": "35см өндөртэй төрөл бүрийн амттан барьсан зөөлөн чихмэл тоглоомууд.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2297160/product/1.jpg",
+    "brand": "SNACKLES",
+    "name": "77511L SNACKLES Cow&Froot loops чихмэл тоглоом 35cм S1W2",
+    "alternate_name": "SNACKLES чихмэл тоглоом 35cм-Сериал тэвэрсэн үхэр",
+    "price": "80,000 ₮"
+}
+{
+    "sku": "77511M",
+    "mpn": "77511M",
+    "description": "35см өндөртэй төрөл бүрийн амттан барьсан зөөлөн чихмэл тоглоомууд.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2297158/product/1.jpg",
+    "brand": "SNACKLES",
+    "name": "77511M SNACKLES Dragon holding Reese's чихмэл тоглоом 35cм S1W2",
+    "alternate_name": "SNACKLES чихмэл тоглоом 35cм-Шоколад тэвэрсэн луу",
+    "price": "80,000 ₮"
+}
+{
+    "sku": "9297",
+    "mpn": "9297",
+    "description": "Сүрприз өндгийг задлахад 6 төрлийн мангас чихмэл тоглоомноос нэг нь гарч ирнэ. 35 гаруй жижиг сүрприз дагалдана.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2302529/product/1.jpg",
+    "brand": "RAINBOCORNS",
+    "name": "9297 RAINBOCORNS Monstercorn S1 сүрприз чихмэл тоглоом",
+    "alternate_name": "Сүрприз чихмэл тоглоом",
+    "price": "70,000 ₮"
+}
+{
+    "sku": "9279",
+    "mpn": "9279",
+    "description": "Сүрприз өндгийг задлахад 7 төрлийн муужгайнаас нэг нь гарч ирнэ. Харанхуйд нүд нь гэрэлтдэг чихмэл муужгай, стикер, 1ш жижиг сүрприз өндөг, слаймтай. Гэдсэн дээрх зүрхийг нь хусч арилгаад амьтан чинь юунд дуртайг мэдээрэй.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2302584/product/1.jpg",
+    "brand": "RAINBOCORNS",
+    "name": "9279 RAINBOCORNS Kittycorn S7 сүрприз чихмэл тоглоом /PDQ,6ш/",
+    "alternate_name": "Сүрприз чихмэл тоглоом",
+    "price": "32,000 ₮"
+}
+{
+    "sku": "77511N",
+    "mpn": "77511N",
+    "description": "35см өндөртэй төрөл бүрийн амттан барьсан зөөлөн чихмэл тоглоомууд.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2297156/product/1.jpg",
+    "brand": "SNACKLES",
+    "name": "77511N SNACKLES Sloth&MikeandIke чихмэл тоглоом 35cм S1W2",
+    "alternate_name": "SNACKLES чихмэл тоглоом 35cм-Чихэр тэвэрсэн слот",
+    "price": "80,000 ₮"
+}
+{
+    "sku": "77511P",
+    "mpn": "77511P",
+    "description": "35см өндөртэй төрөл бүрийн амттан барьсан зөөлөн чихмэл тоглоомууд.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2297153/product/1.jpg",
+    "brand": "SNACKLES",
+    "name": "77511P SNACKLES Axolotl&Maruchan чихмэл тоглоом 35cм S1W2",
+    "alternate_name": "SNACKLES чихмэл тоглоом 35cм-Гоймон тэвэрсэн аксолотль",
+    "price": "80,000 ₮"
+}
+{
+    "sku": "77511Q",
+    "mpn": "77511Q",
+    "description": "35см өндөртэй төрөл бүрийн амттан барьсан зөөлөн чихмэл тоглоомууд.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2297150/product/1.jpg",
+    "brand": "SNACKLES",
+    "name": "77511Q SNACKLES Huskie&Subway чихмэл тоглоом 35cм S1W2",
+    "alternate_name": "SNACKLES чихмэл тоглоом 35cм-Сэндвич тэвэрсэн хаски нохой",
+    "price": "80,000 ₮"
+}
+{
+    "sku": "77511S",
+    "mpn": "77511S",
+    "description": "35см өндөртэй төрөл бүрийн амттан барьсан зөөлөн чихмэл тоглоомууд.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2297128/product/1.jpg",
+    "brand": "SNACKLES",
+    "name": "77511S SNACKLES Black cat&PEZ чихмэл тоглоом 35cм S1W2",
+    "alternate_name": "SNACKLES чихмэл тоглоом 35cм-Чихэр тэвэрсэн муур",
+    "price": "80,000 ₮"
+}
+{
+    "sku": "5455",
+    "mpn": "5455",
+    "description": "Аав, ээж перс муур 2 муурын зулзаганы хамт, гэр бүлийн иж бүрдэл.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2267660/product/1.jpg",
+    "brand": "SYLVANIAN FAMILIES",
+    "name": "5455 Перс муурны гэр бүл",
+    "alternate_name": "Муурын гэр бүл",
+    "price": "66,000 ₮"
+}
+{
+    "sku": "593188",
+    "mpn": "593188",
+    "description": "Хайрцгийг задлахад 9 төрлийн Тот хүүхэлдэйнээс нэг нь гарч ирнэ. Хатдаггүй, кинетик элсээ хүүхэлдэйн хамт үсний хэвэнд хийхэд хүүхэлдэй нь гоёмсог элсэн үстэй болно.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2119078/product/1.jpg",
+    "brand": "L.O.L SURPRISE DOLLS",
+    "name": "593188 L.O.L SURPRISE Squish Sand Magic Hair Tots/PDQ12ш/",
+    "alternate_name": "Л.О.Л Сүрприз-Элсэн үстэй Тот хүүхэлдэй",
+    "price": "52,000 ₮"
+}
+{
+    "sku": "591788",
+    "mpn": "591788",
+    "description": "1 жижиг Л.О.Л сүрприз хүүхэлдэй болон 25 өдөр, өдөрт нэг сүрпризийг задлан дотроос нь 25ш хүүхэлдэйн хувцас, чимэглэл, хэрэгсэл гаргана. ",
+    "image_url": "https://cdnp.cody.mn/spree/images/2119071/product/1.jpg",
+    "brand": "L.O.L SURPRISE DOLLS",
+    "name": "591788 L.O.L SURPRISE Advent Calendar",
+    "alternate_name": "Л.О.Л Сүрприз-Хөгжилтэй календар",
+    "price": "110,000 ₮"
+}
+{
+    "sku": "593522",
+    "mpn": "593522",
+    "description": "Үсийг нь янзалдаг Твийнс хүүхэлдэйн толгой. Хүссэнээрээ засч гоёод Твийнс толгойг нь солидог хүүхэлдэйндээ сольж хийж болно. ",
+    "image_url": "https://cdnp.cody.mn/spree/images/2119049/product/1.jpg",
+    "brand": "L.O.L SURPRISE DOLLS",
+    "name": "593522 L.O.L SURPRISE Tweens Swap Styling Head/PDQ12ш/",
+    "alternate_name": "Л.О.Л Сүрприз-Твийнс толгойг нь гоёдог хүүхэлдэй",
+    "price": "40,000 ₮"
+}
+{
+    "sku": "4172",
+    "mpn": "4172",
+    "description": "Аав, ээж хэрэм 2 зулзаганы хамт, гэр бүлийн иж бүрдэл.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2267631/product/1.jpg",
+    "brand": "SYLVANIAN FAMILIES",
+    "name": "4172 Хэрэмний гэр бүл",
+    "alternate_name": "Хэрэмний гэр бүл",
+    "price": "72,500 ₮"
+}
+{
+    "sku": "5708",
+    "mpn": "5708",
+    "description": "3 давхар 6 өрөөтэй, дэлгэгддэг, гэрэлтэй байшин. Олон төрлөөр байшингаа өөрчлөн барьж болно. 2ш ААА баттерэй орно. Амьтны фигур байхгүй.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2267607/product/1.jpg",
+    "brand": "SYLVANIAN FAMILIES",
+    "name": "5708 SYLVANIAN FAMILY Red Roof Country Home -Secret Attic Playroom",
+    "alternate_name": "Гэрэл асдаг, улаан дээвэртэй байшин",
+    "price": "230,000 ₮"
+}
+{
+    "sku": "77047",
+    "mpn": "77047",
+    "description": "1ш минифигуртэй,164 угсрах ширхэгтэй, 20x17x9см хэмжээтэй Анимал Кроссинг видео тоглоом дээрх гадаа талбай эвлүүлдэг тоглоомын иж бүрдэл.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2218936/product/77047_boxprod_v39.png",
+    "brand": "LEGO",
+    "name": "77047 ANIMAL CROSSING Bunnie's Outdoor Activities",
+    "alternate_name": "Амьтдын гадаа талбай",
+    "price": "90,000 ₮"
+}
+{
+    "sku": "119920",
+    "mpn": "119920",
+    "description": "16.5см өндөртэй, Харибо чихрийн хувцастай, Л.О.Л Твийнс хүүхэлдэй. 15+ жижиг хэрэгслүүд дагалдана.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2165764/product/1.jpg",
+    "brand": "L.O.L SURPRISE DOLLS",
+    "name": "119920 L.O.L SURPRISE Loves Mini Sweets Haribo Tween",
+    "alternate_name": "Л.О.Л Сүрприз-Харибо хувцастай Твийнс хүүхэлдэй",
+    "price": "100,000 ₮"
+}
+{
+    "sku": "71811",
+    "mpn": "71811",
+    "description": "4ш минифигуртэй, 267ш угсрах хэсэгтэй, Нинжагөү бартаат замын уралдааны машин эвлүүлдэг тоглоомын иж бүрдэл.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2214797/product/71811_alt1.png",
+    "brand": "LEGO",
+    "name": "71811 NINJAGO Arin's Ninja Off-Road Buggy Car",
+    "alternate_name": "Бартаат замын уралдааны машин",
+    "price": "250,000 ₮"
+}
+{
+    "sku": "5650",
+    "mpn": "5650",
+    "description": "13 гоёл чимэглэлтэй 2 пони охидын иж бүрдэл.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2267649/product/1.jpg",
+    "brand": "SYLVANIAN FAMILIES",
+    "name": "5650 SYLVANIAN FAMILY Pony Friends Set",
+    "alternate_name": "Пони найзуудын сет",
+    "price": "70,000 ₮"
+}
+{
+    "sku": "5639",
+    "mpn": "5639",
+    "description": "Аав, ээж анааш 2 тугалын хамт, гэр бүлийн иж бүрдэл.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2267657/product/1.jpg",
+    "brand": "SYLVANIAN FAMILIES",
+    "name": "5639 SYLVANIAN FAMILY Highbranch Giraffe Family",
+    "alternate_name": "Анаашны гэр бүл",
+    "price": "64,000 ₮"
+}
+{
+    "sku": "591559",
+    "mpn": "591559",
+    "description": "25см өндөртэй Л.О.Л Сүрприз OMG хүүхэлдэй, бүлээн усанд дүрэхэд өнгө нь өөрчлөгддөг нохойтой, усан гахайтай, дагалдах 45+ сүрпризтэй, мал эмнэлгийн иж бүрдэл.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2119039/product/1.jpg",
+    "brand": "L.O.L SURPRISE DOLLS",
+    "name": "591559 L.O.L SURPRISE  OMG I AM-Rescue Vet Set",
+    "alternate_name": "Л.О.Л Сүрприз-Мал эмнэлгийн иж бүрдэл",
+    "price": "255,000 ₮"
+}
+{
+    "sku": "119913",
+    "mpn": "119913",
+    "description": "Бөмбөлөг савнаас 7.6см өндөртэй Харибо чихрийн хувцас чимэглэлтэй, Л.О.Л жижиг хүүхэлдэй, 7ш дагалдах хэрэгслийн хамт гарч ирнэ. 9 төрлийн сонголттой.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2119004/product/1.jpg",
+    "brand": "L.O.L SURPRISE DOLLS",
+    "name": "119913 L.O.L SURPRISE Loves Mini Sweets Haribo/PDQ18ш/",
+    "alternate_name": "Л.О.Л Сүрприз-Харибо чихрийн хувцастай хүүхэлдэй ",
+    "price": "46,000 ₮"
+}
+{
+    "sku": "71819",
+    "mpn": "71819",
+    "description": "6ш минифигуртэй, 1212ш угсрах хэсэгтэй, Нинжагөү чулуун сүм эвлүүлдэг тоглоомын иж бүрдэл.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2214792/product/71819_alt1.png",
+    "brand": "LEGO",
+    "name": "71819 NINJAGO Dragon Stone Shrine",
+    "alternate_name": "Луугийн чулуут сүм",
+    "price": "495,000 ₮"
+}
+{
+    "sku": "593218",
+    "mpn": "593218",
+    "description": "5 өнгийн 250гр хатдаггүй кинетик элстэй, 15ш хэвтэй, уртаашаа 91см өргөн байшин, 4 тавилгатай том өрөө, ажилладаг цахилгаан шат, 1ш Тот хүүхэлдэйтэй, 50+ сүрприз дагалдах хэрэгсэлтэй хүүхэлдэйн байшин.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2119069/product/1.jpg",
+    "brand": "L.O.L SURPRISE DOLLS",
+    "name": "593218 L.O.L SURPRISE Squish Sand Magic House",
+    "alternate_name": "Л.О.Л Сүрприз-Тот хүүхэлдэйн элсэн байшин",
+    "price": "265,000 ₮"
+}
+{
+    "sku": "71045",
+    "mpn": "71045",
+    "description": "Минифигурын 25 дахь цувралын 12 төрлийн цоо шинэ дүр төрхтэй фигурууд. ",
+    "image_url": "https://cdnp.cody.mn/spree/images/2151057/product/71045_alt1.png",
+    "brand": "LEGO",
+    "name": "71045 MINIFIGURES Series 25",
+    "alternate_name": "25 дахь цувралын мини фигур",
+    "price": "15,000 ₮"
+}
+{
+    "sku": "5706",
+    "mpn": "5706",
+    "description": "Аав, ээж цагаан туулай 2 бүжингийн хамт, гэр бүлийн иж бүрдэл.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2267635/product/1.jpg",
+    "brand": "SYLVANIAN FAMILIES",
+    "name": "5706 SYLVANIAN FAMILY Milk Rabbit Family",
+    "alternate_name": "Цагаан туулай гэр бүл",
+    "price": "59,000 ₮"
+}
+{
+    "sku": "5701",
+    "mpn": "5701",
+    "description": "2 лусын дагины сүүлтэй үнэг, муур болон туулай охины фигуртэй лусын дагины ордон. 50 гаруй бяцхан амьтдын фигур багтах орон зайтай.",
+    "image_url": "https://cdnp.cody.mn/spree/images/2267638/product/1.jpg",
+    "brand": "SYLVANIAN FAMILIES",
+    "name": "5701 SYLVANIAN FAMILY Baby Mermaid Castle",
+    "alternate_name": "Лусын дагины ордон",
+    "price": "175,000 ₮"
+}
+{
+    "sku": "5655",
+    "mpn": "5655",
+    "description": "Аав, ээж цагаан туулай 2 бүжингийн хамт, гэр бүлийн иж бүрдэл.",
+    "image_url": "https://cdnp.cody.mn/spree/images/1660724/product/5655p_pr2161_5.jpeg",
+    "brand": "SYLVANIAN FAMILIES",
+    "name": "5655 New Chocolate Rabbit Family",
+    "alternate_name": "Цуглуулгын тоглоом",
+    "price": "65,000 ₮"
+}
+{
+    "sku": "5642",
+    "mpn": "5642",
+    "description": "Гоёмсог үстэй Пони охины үсчний салон, 2 давхар салоны тавилгатай байшин.",
+    "image_url": "https://cdnp.cody.mn/spree/images/1660760/product/5642p_pr2130_5.jpeg",
+    "brand": "SYLVANIAN FAMILIES",
+    "name": "5642 Pony'S Stylish Hair Salon",
+    "alternate_name": "Цуглуулгын тоглоом",
+    "price": "175,000 ₮"
+}
+{
+    "sku": "31135",
+    "mpn": "31135",
+    "description": "128ш жижиг хэсэгтэй, 3 төрлийн мотоцикль эвлүүлэх тоглоомын иж бүрдэл.",
+    "image_url": "https://cdnp.cody.mn/spree/images/1729187/product/31135_alt7.png",
+    "brand": "LEGO",
+    "name": "31135 CREATOR Vintage Motorcycle",
+    "alternate_name": "Эвлүүлдэг тоглоом",
+    "price": "60,000 ₮"
+}
+{
+    "sku": "1453",
+    "mpn": "1453",
+    "description": "Лааны суурь чимэглэх сет\r\n1ш хиймэл дөлтэй лаа, 75гр 2ш кинетик элс, 12ш болор чимэглэл, 30ш шүр, 1ш чимэглэл, 3м урттай утас, тавцан, зааварчилгаа багтсан.",
+    "image_url": "https://cdnp.cody.mn/spree/images/1925255/product/1.jpg",
+    "brand": "Make It Real",
+    "name": "1453 MIR Flameless Candle Zen Garden",
+    "alternate_name": "Лааны суурь чимэглэх сет",
+    "price": "52,000 ₮"
+}
+{
+    "sku": "5567",
+    "mpn": "5567",
+    "description": "Цагаан туулай, унтлагын өрөө, гал тогооны өрөөний тавилгатай 2 давхар байшин",
+    "image_url": "https://cdnp.cody.mn/spree/images/1657211/product/5567p_pr2162_5.jpeg",
+    "brand": "SYLVANIAN FAMILIES",
+    "name": "5567 New Red Roof Cosy Cottage Starter Home",
+    "alternate_name": "Цуглуулгын тоглоом",
+    "price": "90,000 ₮"
+}
+{
+    "sku": "10048",
+    "mpn": "10048",
+    "description": "3 өнгийн хос дулаан оймс",
+    "image_url": "https://cdnp.cody.mn/spree/images/1764322/product/1.jpg",
+    "brand": "Make It Real",
+    "name": "10048 MIR 3C4G Socks So Sweet- 3pk cupcake socks",
+    "alternate_name": "3 хос оймс",
+    "price": "44,000 ₮"
+}
+{
+    "sku": "76415",
+    "mpn": "76415",
+    "description": "6ш минифигуртэй, 728ш угсрах хэсэгтэй, Харри Поттерийн Хогвардсын цамхаг эвлүүлдэг тоглоомын иж бүрдэл.",
+    "image_url": "https://cdnp.cody.mn/spree/images/1810884/product/76415_alt1.png",
+    "brand": "LEGO",
+    "name": "76415 HARRY POTTER  The Battle of Hogwarts",
+    "alternate_name": "Харри Поттерийн Хогвардсын цамхаг",
+    "price": "470,000 ₮"
+}
+{
+    "sku": "11029",
+    "mpn": "11029",
+    "description": "Эвлүүлдэг тоглоом",
+    "image_url": "https://cdnp.cody.mn/spree/images/1798766/product/11029_alt1.png",
+    "brand": "LEGO",
+    "name": "11029 CLASSIC  Creative Party Box",
+    "alternate_name": "Эвлүүлдэг тоглоом",
+    "price": "250,000 ₮"
+}
+{
+    "sku": "5016",
+    "mpn": "5016",
+    "description": "бүжин хичээлийн ширээ сандал, цүнх, бичгийн хэрэгсэлтэй иж бүрдэл",
+    "image_url": "https://cdnp.cody.mn/spree/images/1660798/product/81nPBr6YZsL.jpeg",
+    "brand": "SYLVANIAN FAMILIES",
+    "name": "5016 Шоколадан эгч бүжин бичгийн ширээтэй иж бүрдэл",
+    "alternate_name": "Цуглуулгын тоглоом",
+    "price": "50,000 ₮"
+}
+{
+    "sku": "99-3000",
+    "mpn": "99-3000",
+    "description": "Өнгийн цаас 96ш",
+    "image_url": "https://cdnp.cody.mn/spree/images/1585345/product/open-uri20221202-3541465-pxoej2.",
+    "brand": "CRAYOLA",
+    "name": "99-3000 PAPER CONTS 96SH/12",
+    "alternate_name": "Зургийн хэрэгсэл",
+    "price": "9,900 ₮"
+}
+{
+    "sku": "5449",
+    "mpn": "5449",
+    "description": "бүжин, гал тогооны тавилга, угаалгын өрөөний тавилгатай иж бүрдэл",
+    "image_url": "https://cdnp.cody.mn/spree/images/1660770/product/5054131054499.jpeg",
+    "brand": "SYLVANIAN FAMILIES",
+    "name": "5449 Жижиг тавилгын сэт",
+    "alternate_name": "Цуглуулгын тоглоом",
+    "price": "88,000 ₮"
+}
+{
+    "sku": "584520",
+    "mpn": "584520",
+    "description": "Л.О.Л Сүрприз, Л.О.Л OMG Сүрприз хүүхэлдэйнүүд багтах, спа, маникурын ширээ, үсний салон, үс угаах хэсэг, жүүс бартай, 65+ дагалдах жижиг хэрэгсэлтэй, Тольны гэрэл асч, шүршүүр нь ажилладаг. 3ш LR44 товчин баттерэй, 4ш ААА баттерэй орно. Хүүхэлдэй дагалдахгүй.",
+    "image_url": "https://cdnp.cody.mn/spree/images/1627177/product/81ZKdxv3npL._AC_SL1500_.jpg",
+    "brand": "L.O.L SURPRISE DOLLS",
+    "name": "584520 L.O.L SURPRISE  Shine On Salon &Spa",
+    "alternate_name": "Охидын тоглоом",
+    "price": "390,000 ₮"
+}
+{
+    "sku": "10990",
+    "mpn": "10990",
+    "description": "3ш минифигуртэй, 61ш угсардаг хэсэгтэй, Лего Дупло барилгын талбай эвлүүлдэг тоглоомын иж бүрдэл. ",
+    "image_url": "https://cdnp.cody.mn/spree/images/1631267/product/10990_alt1.png",
+    "brand": "LEGO",
+    "name": "10990 DUPLO Town Construction Site",
+    "alternate_name": "Эвлүүлдэг тоглоом",
+    "price": "295,000 ₮"
+}
+{
+    "sku": "659621",
+    "mpn": "659621",
+    "description": "Хүүхдийн сэтгэхүй хөгжүүлэх олон төрлийн даралтат тоглоомтой, түрдэг хөлд оруулагч тоглоом. Дуугарч, гэрэл асдаг 2ш АА баттерэй орно.",
+    "image_url": "https://cdnp.cody.mn/spree/images/1645984/product/716ULFEt2kL._AC_SL1500_.jpg",
+    "brand": "LITTLE TIKES",
+    "name": "659621 LITTLE TIKES   Learning Lane Activity Walker",
+    "alternate_name": "Хүүхдийн хөлд оруулагч",
+    "price": "220,000 ₮"
+}
+{
+    "sku": "660641",
+    "mpn": "660641",
+    "description": "Хогны машины хэлбэртэй унадаг машин. Хөлд орж буй хүүхдүүдэд алхахад нь тулгуур болох хөлд оруулагчийн үүрэг ч гүйцэтгэдэг. Ачааны тээштэй, 25кг даацтай. ",
+    "image_url": "https://cdnp.cody.mn/spree/images/1645980/product/71YJINXvsLL._AC_SL1500_.jpg",
+    "brand": "LITTLE TIKES",
+    "name": "660641 LITTLE TIKES   Dirt Digger Garbage Scoot",
+    "alternate_name": "Хүүхдийн тоглоомон машин",
+    "price": "180,000 ₮"
+}
+{
+    "sku": "604EZ",
+    "mpn": "604EZ",
+    "description": "Дуугарч, гэрэл асдаг мэдрэхүй хөгжүүлэх 20 төрлийн товчлууртай. Машинаа унаж, эсвэл хөлд оруулагч шиг түрж алхах 2 төрлийн  зориулалттай. Суудал дороо ачааны тэвштэй. 19кг-ийн даацтай.",
+    "image_url": "https://cdnp.cody.mn/spree/images/1560593/product/open-uri20221110-2081770-1mkm36p.",
+    "brand": "RADIO FLYER",
+    "name": "604EZ RADIO FLYER Tinker Truck with Lights & Sounds",
+    "alternate_name": "Хүүхдийн тоглоомон машин",
+    "price": "195,000 ₮"
+}
+{
+    "sku": "25173840",
+    "mpn": "25173840",
+    "description": "\r\n* Хүчирхэг мотортой, автомат жолоодлоготой  Power Core технологиор хийгдсэн бага насны хүүхдийн унадаг машин нь хүүхдэд яг л жинхэнэ авто машины уралдаанч  шиг дрифт хийж, 360 градус дороо эргэлдэх боломжийг олгоно.\r\n* Дэвшилтэд технологийн Полимор хуванцараар хийгдсэн тул авч явахад хөнгөн, бат бэх. \r\n* Хүүхдийнхээ наснаас шалтгаалан унах хурдыг нь тохируулж болно. Хамгийн өндөртөө 13 км.ц хүртэл хурдлахдаа 40 минутын турш цэнэгээ барина. \r\n* Хамгийн багадаа 4 км.ц-ийн хурдаар явахдаа 80 минутын турш цэнэгээ барина. 12 цаг цэнэглэнэ.\r\n* Цэнэглэдэг 12волтын баттерэйтай, цэнэглэгч дагалдана.  Хэмжээ: 77 x 52.5 x 32.5 Жин: 12кг Даац: 54кг ",
+    "image_url": "https://cdnp.cody.mn/spree/images/1562082/product/open-uri20221111-2187720-xnwij9.",
+    "brand": "RAZOR",
+    "name": "25173840 Crazy Cart Shift -Blue/black",
+    "alternate_name": "Электрон дугуйт тоглоом",
+    "price": "900,000 ₮"
+}
+{
+    "sku": "118305",
+    "mpn": "118305",
+    "description": "Охидын тоглоом- Хүүхэлдэй Л.О.Л Сүрприз 4 хүүхэлдэйний суудалтай Парти машин. Л.О.Л хүүхэлдэй, том Л.О.Л ОMG хүүхэлдэй ч багтана. Дээврийг нь онгойлгоод усан сан, бүжгийн тавцан болгож болно. Суудал нь салдаг.",
+    "image_url": "https://cdnp.cody.mn/spree/images/1561522/product/open-uri20221111-2153396-1kdgq9g.",
+    "brand": "L.O.L SURPRISE DOLLS",
+    "name": "118305 L.O.L. Surprise 3-in-1 Party Cruiser",
+    "alternate_name": "Охидын тоглоом",
+    "price": "220,000 ₮"
+}
