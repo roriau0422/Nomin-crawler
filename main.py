@@ -150,7 +150,7 @@ def get_chrome_version():
         version = version_parts[0]
         return version
     else:
-        raise ValueError(f"Unsupported OS: {os_name}")
+        raise ValueError(f"Үйлдлийн систем тохирохгүй: {os_name}")
 
 chrome_version = get_chrome_version()
 
